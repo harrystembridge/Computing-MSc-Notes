@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-sessional Work/Pre-sessional Notes.md",
+                "file": "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre-sessional Notes"
+              "title": "Principles and Practice of Programming Notes"
             }
           }
         ],
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d6446a7ea049c22f",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-sessional Work/Pre-sessional Notes.md",
+                "file": "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pre-sessional Work/Pre-sessional Notes.md",
+                "file": "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pre-sessional Work/Pre-sessional Notes.md",
+                "file": "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,8 +216,10 @@
   },
   "active": "0b79d5ea5d55c97b",
   "lastOpenFiles": [
-    "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
+    "Principles and Practice of Programming/Main Components of a Computer.png",
     "Pre-sessional Work/Pre-sessional Notes.md",
+    "1.1 Computer Systems.md",
+    "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
     "Welcome.md",
     "Pre-sessional Work",
     "Principles and Practice of Programming",
