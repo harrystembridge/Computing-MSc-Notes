@@ -51,3 +51,11 @@
 2026-09-14T11:03:21.663Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.1 Computer Systems.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
 2026-09-14T13:03:22.143Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"}
 2026-09-14T13:03:22.278Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-09-14T13:23:33.849Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"}
+2026-09-14T13:23:34.182Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","okCreates":2,"okUpdates":1,"okDeletes":0,"failedOps":0}
+2026-09-14T13:26:24.596Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"}
+2026-09-14T13:26:24.706Z [INFO] syncNote pending deletion {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","blockId":"q-wmbs","nid":1789392214114,"deckName":"Principles and Practice of Programming"}
+2026-09-14T13:26:28.287Z [WARN] CREATE failed {"blockId":"q-x84g","error":"cannot create note because it is a duplicate"}
+2026-09-14T13:26:28.321Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","okCreates":0,"okUpdates":0,"okDeletes":1,"failedOps":1}
+2026-09-14T13:26:42.845Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"}
+2026-09-14T13:26:43.047Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}

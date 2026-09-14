@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1789393042614-5rgkx7vmy",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789393366432-9dfv6ec",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1789393366154-x1k41h9",
+      "timestamp": 1789393366154,
+      "rawDisplayText": "test claude is working",
+      "canonicalText": "test claude is working",
+      "context": {
+        "linkedContent": {
+          "path": "Principles and Practice of Programming/1.3 Introduction to C++.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "c718584c41249ac7e536dc659efa3ed2d523720b3f7ac33ad2899332eb0f0029",
+      "providerUserMessageId": "59652e38-c5cc-43c9-a623-c6debd3f2c11"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1789393751804-v7cfgrp",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1789393751786-wvut2yf",
+      "timestamp": 1789393751786,
+      "rawDisplayText": "test",
+      "canonicalText": "test",
+      "images": [],
+      "contentDigest": "0dd83749a380c4023c563e5cf5f0117e89ea2c9525689c6acd270138135ab55f",
+      "providerUserMessageId": "69723c31-3ad8-48e6-b363-a29805a77bb1",
+      "providerAssistantMessageId": "0b4ea229-5bb7-4424-ac92-7574ee2cbdb1"
+    }
+  ]
+}

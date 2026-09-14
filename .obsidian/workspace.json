@@ -13,22 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles and Practice of Programming/1.2 Programming and Problem-Solving.md",
+                "file": "Principles and Practice of Programming/1.3 Introduction to C++.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Programming and Problem-Solving"
-            }
-          },
-          {
-            "id": "4dae31dfde326d5d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "1.3 Introduction to C++"
             }
           }
         ]
@@ -65,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "source code",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles and Practice of Programming/1.1 Computer Systems.md",
+                "file": "Principles and Practice of Programming/1.3 Introduction to C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles and Practice of Programming/1.1 Computer Systems.md",
+                "file": "Principles and Practice of Programming/1.3 Introduction to C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles and Practice of Programming/1.1 Computer Systems.md",
+                "file": "Principles and Practice of Programming/1.3 Introduction to C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,6 +178,27 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "7d752e50246e14eb",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1789393022800-vq599vw",
+                      "conversationId": "conv-1789393042614-5rgkx7vmy"
+                    }
+                  ],
+                  "activeTabId": "tab-1789393022800-vq599vw"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
             }
           }
         ],
@@ -207,16 +218,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "flashcards-obsidian:Update Anki from current note": false
+      "flashcards-obsidian:Update Anki from current note": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "0b79d5ea5d55c97b",
+  "active": "ab3c409d1c7cd8fc",
   "lastOpenFiles": [
-    "Pre-sessional Work/Pre-sessional Notes.md",
-    "Principles and Practice of Programming/1.2 Programming and Problem-Solving.md",
     "Principles and Practice of Programming/1.1 Computer Systems.md",
-    "Attachments/Preparing a C++ Program for Running.png",
-    "Attachments/Compiling and Running a C++ Program.png",
+    "Principles and Practice of Programming/1.3 Introduction to C++.md",
+    "Principles and Practice of Programming/1.2 Programming and Problem-Solving.md",
+    "object code.md",
+    "Pre-sessional Work/Pre-sessional Notes.md",
+    "Principles and Practice of Programming/Attachments/Program Design Process.png",
+    "Principles and Practice of Programming/Attachments/Preparing a C++ Program for Running.png",
+    "Principles and Practice of Programming/Attachments/Compiling and Running a C++ Program.png",
     "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
     "MOC Example/1.1 Computer Systems.md",
     "MOC Example/CPU.md",
@@ -225,9 +240,9 @@
     "MOC Example/Output Devices.md",
     "MOC Example/Secondary Memory.md",
     "MOC Example",
-    "Attachments/Main Components of a Computer.png",
-    "Attachments/MSc Computing Presessional 2627.pdf",
-    "Attachments",
+    "Principles and Practice of Programming/Attachments/Main Components of a Computer.png",
+    "Principles and Practice of Programming/Attachments/MSc Computing Presessional 2627.pdf",
+    "Principles and Practice of Programming/Attachments",
     "1.1 Computer Systems.md",
     "Welcome.md",
     "Pre-sessional Work",
