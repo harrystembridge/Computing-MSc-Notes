@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles and Practice of Programming/1.3 Introduction to C++.md",
+                "file": "Principles and Practice of Programming/1.4 Testing and Debugging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Introduction to C++"
+              "title": "1.4 Testing and Debugging"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles and Practice of Programming/1.3 Introduction to C++.md",
+                "file": "Principles and Practice of Programming/1.4 Testing and Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles and Practice of Programming/1.3 Introduction to C++.md",
+                "file": "Principles and Practice of Programming/1.4 Testing and Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles and Practice of Programming/1.3 Introduction to C++.md",
+                "file": "Principles and Practice of Programming/1.4 Testing and Debugging.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,13 +222,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ab3c409d1c7cd8fc",
+  "active": "f72951dffd1ee1dd",
   "lastOpenFiles": [
-    "Principles and Practice of Programming/1.1 Computer Systems.md",
+    "Pre-sessional Work/Pre-sessional Notes.md",
+    "Principles and Practice of Programming/1.4 Testing and Debugging.md",
     "Principles and Practice of Programming/1.3 Introduction to C++.md",
+    "Principles and Practice of Programming/1.1 Computer Systems.md",
     "Principles and Practice of Programming/1.2 Programming and Problem-Solving.md",
     "object code.md",
-    "Pre-sessional Work/Pre-sessional Notes.md",
     "Principles and Practice of Programming/Attachments/Program Design Process.png",
     "Principles and Practice of Programming/Attachments/Preparing a C++ Program for Running.png",
     "Principles and Practice of Programming/Attachments/Compiling and Running a C++ Program.png",
