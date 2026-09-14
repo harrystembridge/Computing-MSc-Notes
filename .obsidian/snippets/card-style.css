@@ -1,0 +1,15 @@
+/* Style #card flashcards - Reading view */
+.markdown-reading-view p:has(> a.tag[href="#card"]) {
+  border-left: 4px solid var(--color-blue, #7c9fd6);
+  background-color: var(--background-modifier-hover);
+  padding: 0.75em 1em;
+  border-radius: 4px;
+}
+
+/* Style #card flashcards - Live Preview editor */
+.markdown-source-view.mod-cm6 .cm-line:has(.cm-hashtag) {
+  border-left: 4px solid var(--color-blue, #7c9fd6);
+  background-color: var(--background-modifier-hover);
+  padding: 0.75em 1em;
+  border-radius: 4px;
+}

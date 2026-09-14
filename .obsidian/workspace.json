@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-sessional Work/Pre-sessional Notes.md",
+                "file": "Principles and Practice of Programming/1.1 Computer Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pre-sessional Notes"
+              "title": "1.1 Computer Systems"
             }
           },
           {
@@ -34,9 +34,18 @@
               "icon": "lucide-file",
               "title": "Principles and Practice of Programming Notes"
             }
+          },
+          {
+            "id": "4dae31dfde326d5d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
+                "file": "Principles and Practice of Programming/1.1 Computer Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
+                "file": "Principles and Practice of Programming/1.1 Computer Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
+                "file": "Principles and Practice of Programming/1.1 Computer Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,18 +221,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "flashcards-obsidian:Update Anki from current note": false
     }
   },
-  "active": "0b79d5ea5d55c97b",
+  "active": "dc6a8f04a799c457",
   "lastOpenFiles": [
-    "Principles and Practice of Programming/Main Components of a Computer.png",
-    "Pre-sessional Work/Pre-sessional Notes.md",
-    "1.1 Computer Systems.md",
     "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
+    "Principles and Practice of Programming/1.1 Computer Systems.md",
+    "Pre-sessional Work/Pre-sessional Notes.md",
+    "Attachments/Main Components of a Computer.png",
+    "Attachments/MSc Computing Presessional 2627.pdf",
+    "Attachments",
+    "1.1 Computer Systems.md",
     "Welcome.md",
     "Pre-sessional Work",
-    "Principles and Practice of Programming",
-    "Pre-sessional Work/MSc Computing Presessional 2627.pdf"
+    "Principles and Practice of Programming"
   ]
 }
