@@ -7,7 +7,7 @@
 }
 
 /* Style #card flashcards - Live Preview editor */
-.markdown-source-view.mod-cm6 .cm-line:has(.cm-hashtag) {
+.cm-s-obsidian .cm-line:has(.cm-hashtag-end) {
   border-left: 4px solid var(--color-blue, #7c9fd6);
   background-color: var(--background-modifier-hover);
   padding: 0.75em 1em;
