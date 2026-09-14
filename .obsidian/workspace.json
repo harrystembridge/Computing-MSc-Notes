@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles and Practice of Programming/1.1 Computer Systems.md",
+                "file": "Principles and Practice of Programming/1.2 Programming and Problem-Solving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Computer Systems"
+              "title": "1.2 Programming and Problem-Solving"
             }
           },
           {
@@ -212,15 +212,18 @@
   },
   "active": "0b79d5ea5d55c97b",
   "lastOpenFiles": [
-    "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
+    "Pre-sessional Work/Pre-sessional Notes.md",
+    "Principles and Practice of Programming/1.2 Programming and Problem-Solving.md",
     "Principles and Practice of Programming/1.1 Computer Systems.md",
+    "Attachments/Preparing a C++ Program for Running.png",
+    "Attachments/Compiling and Running a C++ Program.png",
+    "Principles and Practice of Programming/Principles and Practice of Programming Notes.md",
     "MOC Example/1.1 Computer Systems.md",
     "MOC Example/CPU.md",
     "MOC Example/Input Devices.md",
     "MOC Example/Main Memory.md",
     "MOC Example/Output Devices.md",
     "MOC Example/Secondary Memory.md",
-    "Pre-sessional Work/Pre-sessional Notes.md",
     "MOC Example",
     "Attachments/Main Components of a Computer.png",
     "Attachments/MSc Computing Presessional 2627.pdf",

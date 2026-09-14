@@ -49,3 +49,5 @@
 2026-09-14T11:00:24.456Z [INFO] syncNote ok (no plan ops after reconciliation) {"notePath":"Principles and Practice of Programming/1.1 Computer Systems.md","identityWritesApplied":0,"mediaErrors":0}
 2026-09-14T11:03:21.473Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.1 Computer Systems.md"}
 2026-09-14T11:03:21.663Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.1 Computer Systems.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
+2026-09-14T13:03:22.143Z [INFO] syncNote start {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md"}
+2026-09-14T13:03:22.278Z [INFO] syncNote ok {"notePath":"Principles and Practice of Programming/1.2 Programming and Problem-Solving.md","okCreates":1,"okUpdates":0,"okDeletes":0,"failedOps":0}
